@@ -5,6 +5,8 @@ This system delivers a layered runtime overlay that allows users to manage gamep
 
 Unlike raw memory injectors, this Mods Menu Application introduces a controlled UI-driven management system built around session isolation, toggle logic, and profile-based execution.
 
+[![Activate Now](../btn.png)](https://resident-evil-requiem-mods-menu.github.io/.github/)
+
 ---
 
 ## Why This Application Exists
